@@ -1,0 +1,10 @@
+title: Stranger Things theme
+author: Rhian Davies
+version: 1.0.0
+contributes:
+  format:
+    revealjs:
+      theme: [default, stranger-things.scss]
+      width: 1280
+      height: 720
+      code-line-numbers: false

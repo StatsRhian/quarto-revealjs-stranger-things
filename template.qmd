@@ -1,0 +1,31 @@
+---
+format: stranger-things-revealjs
+---
+
+## Branded Quarto {.theme-title .center}
+
+# Characters {.theme-section1}
+
+## Main characters
+
+- Will
+- Mike
+- Eleven
+- Lucas
+- Dustin
+
+# Facts {.theme-section2}
+
+## Auditioned 906 boys and 307 girls
+
+- Kids were asked to read scenes from the movie "Stand By Me,"
+
+- Finn Wolfhard was sick at the time, so he sent in a recording of himself from his bed
+
+## Sadie Sink wasn't a great skater
+
+- Sadie lied when they asked her if she had any rollerblading experience
+
+- She later took lessons
+
+
